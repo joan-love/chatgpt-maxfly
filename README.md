@@ -42,7 +42,7 @@
 ## **如何快速开始使用中文版 ChatGPT**
 
 1. **选择镜像站点**  
-   - 直接选择推荐站点，例如：chat.lify.vip。  
+   - 直接选择推荐站点，例如：[ai.bearvision.cn](https://ai.bearvision.cn/#/chat)。  
 
 2. **注册账号**  
    - 使用邮箱或手机号完成注册。  
